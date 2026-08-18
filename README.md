@@ -4,7 +4,7 @@ I build real products with AI, then I write down exactly how I built them.
 
 Builder who teaches, not a teacher who builds. Every repo here started as something I actually shipped. The guide comes after. If I didn't build it, I don't write about it.
 
-**[learnwithhasan.com](https://learnwithhasan.com)** &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@HasanAboulHasan) &nbsp;·&nbsp; [X](https://twitter.com/learnwithhasan) &nbsp;·&nbsp; [Community](https://learnwithhasan.com/community/)
+**[learnwithhasan.com](https://learnwithhasan.com)** &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@HasanAboulHasan) &nbsp;·&nbsp; [X](https://x.com/hasan_ab_hasan) &nbsp;·&nbsp; [Community](https://learnwithhasan.com/community/)
 
 ---
 
